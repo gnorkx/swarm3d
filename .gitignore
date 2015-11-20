@@ -1,3 +1,7 @@
+*.cbp
+*.cbp.*
+*.depend
+*.layout
 # Compiled Object files
 *.slo
 *.lo
